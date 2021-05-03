@@ -1,14 +1,35 @@
-<span id="a">root@kaiser784</span>:<span id="b">~</span><span id="c">$</span> ls
-<p>about_me.txt    contact_me.txt</p>
-<span id="a">root@kaiser784</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->codenerve.txt<br/><br/>
-My favorite code quote, "<span id="k">Code for Everyone</span>". <!-- sjkfhskjf -->
+<span id="u">user@localhost</span>:<span id="b">~</span><span id="c">$</span> ssh root@kaiser784 -p 4445
+Password:
+Last login: Wed Nov 02 15:00:43 1988 from localhost
+<br/>
+<span id="a">root@kaiser784</span>:<span id="b">~</span><span id="c">#</span> ls
+about_me.txt         contact_me.txt
+<span id="a">root@kaiser784</span>:<span id="b">~</span><span id="c">#</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->about_me.txt<br/>
+I'm Paul Babu Kadali, a University student currently studying Computer Engineering.<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
 
-Hey There! This is the portflio website in the skin of a terminal.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>You can see that, this is how your portfolio would look like.</p>
-<p>You can introduce yourself here.</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
-<p> You can also tell what you've worked and known and what skills you have, you can also give link to your professional portfolio here<a href="link"> portfolio</a>.</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
-<p>Tell more about yourself. <br><br><br>Give your project links or something like that. <a href="link"> Here you go</a>.</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
-<p> You can give links to other professional profiles you have on Internet, here: <br> <a href="link1">Profile1</a> <br> <a href="link2">Profile2</a> and <br> <a href="link3">Profile3</a>.</p>
+I'm an Information Security enthusiast. My areas of interest include Forensics, Penetration Testing and OSINT. I'm still trying my best to get used to live CTF's. Currently, I'm working on my OSCP certification.
 
-You can also give your email ID for contacting you<!-- slightdelayhere-->, feel free to send me an email at<!-- longlonglongcomment --><a href="Your email ID">Email</a>.
+You can find more about who I am in my <a href="https://tinyurl.com/paul-kadali-resume">resume</a>.
 
-<p>Cheers!</p>
+I also have a <a href="https://kaiser784.gitbook.io/kaiser784-blog/">Blog</a> where I document my research and experience as a contribution back to the community. <br>
+
+You can checkout my profiles on various platforms too:
+<a href="https://app.hackthebox.eu/profile/464734">HackTheBox</a>
+<a href="https://tryhackme.com/p/Kaiser784">TryHackme</a>
+<a href="https://www.codewars.com/users/Kaiser784">CodeWars</a>
+
+I publish my writeups on my <a href="https://github.com/Kaiser784">GitHub</a>, you can also checkout the projects I'm working on over there.
+
+
+<span id="a">root@kaiser784</span>:<span id="b">~</span><span id="c">#</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->contact_me.txt<br/>
+Feel free to send me an email at <!-- longlonglongcomment --><a href="mailto:paulkadali@gmail.com">paulkadali@gmail.com</a>.
+
+<p> You can also contact me through other social media : 
+<a href="https://www.linkedin.com/in/paul-kadali/">LinkedIN</a> 
+<a href="https://twitter.com/paul_kadali">Twitter</a>
+<a href="https://www.instagram.com/chewnot2chew/">Instagram</a></p>
+
+<span id="a">root@kaiser784</span>:<span id="b">~</span><span id="c">#</span>exit
+<p>Connection to kaiser784 closed.</p>
+<span id="u">user@localhost</span>:<span id="b">~</span><span id="c">$</span> shutdown
+Goodbye!
