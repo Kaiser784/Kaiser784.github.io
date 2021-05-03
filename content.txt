@@ -29,7 +29,7 @@ Feel free to send me an email at <!-- longlonglongcomment --><a href="mailto:pau
 <a href="https://twitter.com/paul_kadali">Twitter</a>
 <a href="https://www.instagram.com/chewnot2chew/">Instagram</a></p>
 
-<span id="a">root@kaiser784</span>:<span id="b">~</span><span id="c">#</span>exit
+<span id="a">root@kaiser784</span>:<span id="b">~</span><span id="c">#</span> exit
 <p>Connection to kaiser784 closed.</p>
 <span id="u">user@localhost</span>:<span id="b">~</span><span id="c">$</span> shutdown
 Goodbye!
