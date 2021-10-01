@@ -9,7 +9,7 @@ I'm Paul Babu Kadali, a University student currently studying Computer Engineeri
 
 I'm an Information Security enthusiast. My areas of interest include Forensics, Penetration Testing and OSINT. I'm still trying my best to get used to live CTF's. Currently, I'm working on my OSCP certification.
 
-You can find more about who I am in my <a href="https://tinyurl.com/paul-kadali-resume">resume</a>.
+You can find more about who I am in my <a href="https://drive.google.com/file/d/11qwqOXjKWChNZPlz65aW3BxhMPc9Ew2R/view?usp=sharing">resume</a>.
 
 I also have a <a href="https://kaiser784.gitbook.io/kaiser784-blog/">Blog</a> where I document my research and experience as a contribution back to the community. <br>
 
